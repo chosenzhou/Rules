@@ -1,0 +1,34 @@
+# > Apple API
+HOST-KEYWORD,apple.com.akadns.net,Mainland
+HOST-KEYWORD,icloud.com.akadns.net,Mainland
+HOST-KEYWORD,apple.com.akadns.net,Mainland
+HOST-KEYWORD,icloud.com.akadns.net,Mainland
+HOST-SUFFIX,aaplimg.com,Mainland
+HOST-SUFFIX,apple.co,Mainland
+HOST-SUFFIX,apple.com,Mainland
+HOST-SUFFIX,apple-cloudkit.com,Mainland
+HOST-SUFFIX,apple-livephotoskit.com,Mainland
+HOST-SUFFIX,apple-mapkit.com,Mainland
+HOST-SUFFIX,applemusic.com,Mainland
+HOST-SUFFIX,appsto.re,Mainland
+HOST-SUFFIX,apzones.com,Mainland
+HOST-SUFFIX,cdn-apple.com,Mainland
+HOST-SUFFIX,icloud.com,Mainland
+HOST-SUFFIX,icloud-content.com,Mainland
+HOST-SUFFIX,itunes.com,Mainland
+HOST-SUFFIX,me.com,Mainland
+HOST-SUFFIX,mzstatic.com,Mainland
+IP-CIDR,17.0.0.0/8,Mainland
+IP-CIDR,63.92.224.0/19,Mainland
+IP-CIDR,65.199.22.0/23,Mainland
+IP-CIDR,139.178.128.0/18,Mainland
+IP-CIDR,144.178.0.0/19,Mainland
+IP-CIDR,144.178.36.0/22,Mainland
+IP-CIDR,144.178.48.0/20,Mainland
+IP-CIDR,192.35.50.0/24,Mainland
+IP-CIDR,198.183.17.0/24,Mainland
+IP-CIDR,205.180.175.0/24,Mainland
+
+# > Apple News
+HOST-SUFFIX,apple.comscoreresearch.com,Mainland
+HOST-SUFFIX,apple.news,Mainland
