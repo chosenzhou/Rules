@@ -101,6 +101,7 @@ IP6-CIDR,2a0b:b583::/48,Mainland
 
 # > Tencent
 IP-CIDR,182.254.116.0/24,Mainland
+HOST-SUFFIX,weixinbridge.com,Mainland
 
 # > Mainland
 HOST-SUFFIX,10010.com,Mainland
