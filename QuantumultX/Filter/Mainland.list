@@ -6,6 +6,9 @@ HOST-SUFFIX,abchina.com.cn,Mainland
 # > Bank of China
 HOST-SUFFIX,boc.cn,Mainland
 
+# > Myself
+HOST-SUFFIX,csdn.net,Mainland
+
 # > China Citic Bank
 HOST-SUFFIX,citicbank.com,Mainland
 HOST-SUFFIX,ecitic.com,Mainland
