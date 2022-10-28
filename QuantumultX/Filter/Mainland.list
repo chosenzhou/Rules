@@ -1,3 +1,9 @@
+# > Myself
+HOST-SUFFIX,csdn.net,Mainland
+HOST-SUFFIX,aliyundrive.com,Mainland
+HOST-SUFFIX,tencent-cloud.com,Mainland
+
+
 # China Banks
 # > Agricultural Bank of China
 HOST-SUFFIX,abchina.com,Mainland
@@ -5,13 +11,6 @@ HOST-SUFFIX,abchina.com.cn,Mainland
 
 # > Bank of China
 HOST-SUFFIX,boc.cn,Mainland
-
-# > Myself
-HOST-SUFFIX,csdn.net,Mainland
-HOST-SUFFIX,aliyundrive.com,Mainland
-HOST-SUFFIX,tencent-cloud.com,Mainland
-
-
 
 # > China Citic Bank
 HOST-SUFFIX,citicbank.com,Mainland

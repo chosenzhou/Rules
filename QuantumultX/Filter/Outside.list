@@ -1,11 +1,3 @@
-# > Discord
-HOST-SUFFIX,discord.com,Outside
-HOST-SUFFIX,discord.gg,Outside
-HOST-SUFFIX,discord.media,Outside
-HOST-SUFFIX,discordapp.com,Outside
-HOST-SUFFIX,discordapp.net,Outside
-HOST-SUFFIX,discordstatus.com,Outside
-
 # > Myself
 HOST-SUFFIX,maying.co,Outside
 HOST-SUFFIX,javdove.com,Outside
@@ -16,6 +8,16 @@ HOST-SUFFIX,gvt2.com,Outside
 HOST-SUFFIX,proton.me,Outside
 HOST-SUFFIX,baaaat.com,Outside
 HOST-SUFFIX,batchat.com,Outside
+HOST-SUFFIX,cleanmaster.store,Outside
+
+
+# > Discord
+HOST-SUFFIX,discord.com,Outside
+HOST-SUFFIX,discord.gg,Outside
+HOST-SUFFIX,discord.media,Outside
+HOST-SUFFIX,discordapp.com,Outside
+HOST-SUFFIX,discordapp.net,Outside
+HOST-SUFFIX,discordstatus.com,Outside
 
 # > Letstalk
 HOST-SUFFIX,mezengerapp.net,Outside
