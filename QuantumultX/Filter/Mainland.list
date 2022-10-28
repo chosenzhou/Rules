@@ -8,6 +8,10 @@ HOST-SUFFIX,boc.cn,Mainland
 
 # > Myself
 HOST-SUFFIX,csdn.net,Mainland
+HOST-SUFFIX,aliyundrive.com,Mainland
+HOST-SUFFIX,tencent-cloud.com,Mainland
+
+
 
 # > China Citic Bank
 HOST-SUFFIX,citicbank.com,Mainland
