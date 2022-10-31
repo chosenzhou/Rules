@@ -9,7 +9,8 @@ HOST-SUFFIX,baaaat.com,Outside
 HOST-SUFFIX,batchat.com,Outside
 HOST-SUFFIX,cleanmaster.store,Outside
 HOST-SUFFIX,trafficmanager.net,Outside
-
+HOST-SUFFIX,bitwarden.com,Outside
+HOST-SUFFIX,hcaptcha.com,Outside
 
 
 # > Discord
