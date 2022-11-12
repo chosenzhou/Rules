@@ -1,3 +1,3 @@
-# Rules
+# Introduction
 
-Shadowrocket and QuantumultX Rules
+Rules for Shadowrocket and QuantumultX
