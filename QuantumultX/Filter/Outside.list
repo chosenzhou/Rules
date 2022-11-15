@@ -10,8 +10,6 @@ HOST-SUFFIX,batchat.com,Outside
 HOST-SUFFIX,cleanmaster.store,Outside
 HOST-SUFFIX,trafficmanager.net,Outside
 HOST-SUFFIX,hcaptcha.com,Outside
-HOST-SUFFIX,pages.dev,Outside
-
 
 # > Discord
 HOST-SUFFIX,discord.com,Outside
