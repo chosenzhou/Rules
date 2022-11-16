@@ -8,7 +8,6 @@
 # IP6-CIDR: 4397
 # USER-AGENT: 65
 # TOTAL: 81371
-HOST-SUFFIX,enpass.io,Mainland
 HOST,p.bstarstatic.com,Mainland
 HOST,analytics.strava.com,Mainland
 HOST,blzddist1-a.akamaihd.net,Mainland
@@ -183,6 +182,7 @@ HOST,www4-static.gog-statics.com,Mainland
 HOST,xn--9kr7l.com,Mainland
 HOST,xn--flw351e.com,Mainland
 HOST,weizhiyundong.list,Mainland
+HOST-SUFFIX,enpass.io,Mainland
 HOST-SUFFIX,95306.cn,Mainland
 HOST-SUFFIX,rails.cn,Mainland
 HOST-SUFFIX,168kaifu.com,Mainland
