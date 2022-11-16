@@ -1,5 +1,3 @@
-//beginning 解析器正常使用，調試註釋此部分
-
 let [link0, content0, subinfo] = [
   $resource.link,
   $resource.content,
