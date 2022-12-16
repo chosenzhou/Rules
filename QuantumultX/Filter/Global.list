@@ -17,6 +17,10 @@ HOST-SUFFIX,cleanmasters.store,Global
 HOST-SUFFIX,cookielaw.org,Global
 HOST-SUFFIX,doubleclick.net,Global
 
+# > Epic
+HOST-KEYWORD,epicgames,Global
+HOST,ol.epicgames.com,Global
+
 # > Discord
 HOST-SUFFIX,discord.com,Global
 HOST-SUFFIX,discord.gg,Global

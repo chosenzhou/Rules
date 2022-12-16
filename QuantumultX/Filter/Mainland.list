@@ -552,9 +552,6 @@ HOST-SUFFIX,mzstatic.com,Mainland
 # > Duet
 USER-AGENT,duet*,Mainland
 
-# > Epic
-HOST-KEYWORD,epicgames,Mainland
-
 # > Google
 HOST,safebrowsing.googleapis.com,Mainland
 HOST-SUFFIX,dl.google.com,Mainland
@@ -574,7 +571,6 @@ HOST-SUFFIX,invoice.mugglepay.com,Mainland
 # > Steam
 USER-AGENT,Steam*,Mainland
 HOST,cm.steampowered.com,Mainland
-HOST,ol.epicgames.com,Mainland
 HOST-SUFFIX,steamcontent.com,Mainland
 HOST-SUFFIX,steamserver.net,Mainland
 HOST-SUFFIX,steamchina.com,Mainland
